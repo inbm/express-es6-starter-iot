@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "56305163947",
+    "firebase_url": "https://tabfragmenttest.firebaseio.com",
+    "project_id": "tabfragmenttest",
+    "storage_bucket": "tabfragmenttest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56305163947:android:73edb4833e235140",
+        "android_client_info": {
+          "package_name": "inbm.com.tabfragmenttest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56305163947-evts4j8k9711v3re6pn27h74ro6h55l9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "inbm.com.tabfragmenttest",
+            "certificate_hash": "9ee1bcde0dc8964506b058ec894401786f95a03d"
+          }
+        },
+        {
+          "client_id": "56305163947-ha2t7csumflku4vm60fqioa59tt5t4r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4MkNztr2MxRpt3LUZ5ablKQ0-Hut0_7c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56305163947-ha2t7csumflku4vm60fqioa59tt5t4r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
